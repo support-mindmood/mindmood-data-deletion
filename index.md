@@ -13,4 +13,4 @@ When you tap **Generate AI Insights**, selected fields (e.g., mood, journal text
 If you believe a specific request was retained by a third-party processor and want it deleted, contact **support@…** with the date/time of the request and we’ll coordinate deletion consistent with our Privacy Policy.
 
 **Contact:** support@…  
-**Last updated:** YYYY-MM-DD
+**Last updated:** 2025-10-16
